@@ -14,7 +14,7 @@ export function Beranda() {
 
   return (
     <>
-      <ImagesSlider className="h-[40rem] top-11" images={imageUrls}>
+      <ImagesSlider className="h-[40rem] " images={imageUrls}>
         <motion.div
           initial={{
             opacity: 0,
