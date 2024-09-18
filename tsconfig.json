@@ -27,7 +27,7 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "src/components/Beranda.js"
+    "src/components/Beranda.tsx"
   ],
   "exclude": ["node_modules"]
 }
