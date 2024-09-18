@@ -124,8 +124,7 @@ export const ImagesSlider = ({
       )}
       style={{
         perspective: "1000px",
-      }}
-    >
+      }}>
       {areImagesLoaded && children}
       {areImagesLoaded && overlay && (
         <div
